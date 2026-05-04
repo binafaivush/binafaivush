@@ -26,6 +26,13 @@
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
 
+html
+css
+React
+MUI
+React-Native
+Angular
+
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?logo=express)
@@ -34,9 +41,19 @@
 ![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
 ![.NET](https://img.shields.io/badge/.NET-purple?logo=dotnet)
 
+NodeJs
+Python
+java
+.Net
+entity framwork
+C#
+
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
 ![SQL](https://img.shields.io/badge/SQL-blue)
+
+mongoDB
+SQL
 
 ### Tools
 Git • Postman • Agile • REST APIs
@@ -83,6 +100,8 @@ Full web application including frontend, backend and database.
 ---
 
 ## 📊 GitHub Stats
+https://github.com/binafaivush
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=binafaivush&show_icons=true)
 
